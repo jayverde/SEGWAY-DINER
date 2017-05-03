@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="about.xsl" type="text/xsl"?>
+<streaming>
+	<form>
+		<fname></fname>
+		<lname></lname>
+		<email></email>
+		<phone></phone>
+	   <comment>
+		<note></note>
+	    </comment>
+		<submit></submit>
+	</form>
+
+	
+</streaming>
